@@ -1,0 +1,33 @@
+body {
+  min-height: 100vh;
+  z-index: 0;
+}
+
+.body {
+  min-height: 100vh;
+}
+
+.image {
+  height: 100vh;
+
+  background-image: url("c392ba101244345\ 1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: white;
+  background-position: center;
+
+  z-index: 1;
+}
+
+.forms {
+  z-index: 2;
+  padding: 2rem;
+}
+
+.forms > div {
+  margin-bottom: 1rem;
+}
+
+.forms > button {
+  margin-bottom: 1rem;
+}
