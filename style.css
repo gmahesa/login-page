@@ -24,10 +24,8 @@ body {
   padding: 2rem;
 }
 
-.forms > div {
-  margin-bottom: 1rem;
-}
-
-.forms > button {
+.forms > div,
+button,
+input {
   margin-bottom: 1rem;
 }
